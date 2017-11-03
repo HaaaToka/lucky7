@@ -1,0 +1,29 @@
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Form1.resources
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\Performans\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.exe
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\Performans\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.exe
+G:\Performans\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\ResolveAssemblyReference.cache
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.Form1.resources
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\GenerateResource.read.1.tlog
+G:\Performans\16.11.2013 Lucky7\Lucky7\obj\Debug\GenerateResource.write.1.tlog
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.exe
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.exe
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\ResolveAssemblyReference.cache
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.Form1.resources
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\GenerateResource.read.1.tlog
+F:\Performans\Lucky\16.11.2013 Lucky7\Lucky7\obj\Debug\GenerateResource.write.1.tlog
